@@ -1,0 +1,9 @@
+C:\Users\Romaric\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Romaric\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Romaric\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Romaric\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\Romaric\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\Romaric\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\Romaric\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Romaric\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Romaric\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb

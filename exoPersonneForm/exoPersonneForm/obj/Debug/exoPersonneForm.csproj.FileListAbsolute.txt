@@ -1,0 +1,9 @@
+C:\Users\Romaric\source\repos\exoPersonneForm\exoPersonneForm\bin\Debug\exoPersonneForm.exe.config
+C:\Users\Romaric\source\repos\exoPersonneForm\exoPersonneForm\bin\Debug\exoPersonneForm.exe
+C:\Users\Romaric\source\repos\exoPersonneForm\exoPersonneForm\bin\Debug\exoPersonneForm.pdb
+C:\Users\Romaric\source\repos\exoPersonneForm\exoPersonneForm\obj\Debug\exoPersonneForm.csprojAssemblyReference.cache
+C:\Users\Romaric\source\repos\exoPersonneForm\exoPersonneForm\obj\Debug\exoPersonneForm.Form1.resources
+C:\Users\Romaric\source\repos\exoPersonneForm\exoPersonneForm\obj\Debug\exoPersonneForm.Properties.Resources.resources
+C:\Users\Romaric\source\repos\exoPersonneForm\exoPersonneForm\obj\Debug\exoPersonneForm.csproj.GenerateResource.cache
+C:\Users\Romaric\source\repos\exoPersonneForm\exoPersonneForm\obj\Debug\exoPersonneForm.exe
+C:\Users\Romaric\source\repos\exoPersonneForm\exoPersonneForm\obj\Debug\exoPersonneForm.pdb
